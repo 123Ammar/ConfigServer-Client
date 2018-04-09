@@ -1,0 +1,6 @@
+# code_snippet springApplicationName start
+spring:
+  application:
+    name: app-config
+    
+# code_snippet springApplicationName end
