@@ -3,6 +3,7 @@
 	"uri":"https://github.com/123Ammar/configRepo.git",
 	"username":"206573171",
 	"password":"784f91ea8354aa00fa04bf7945e228b82f405980",
+	"label":"config",
 	"proxy":{
 		"http":{
 			"host":"proxy.inbcu.com",
