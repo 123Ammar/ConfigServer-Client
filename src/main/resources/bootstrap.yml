@@ -4,3 +4,11 @@ spring:
     name: app-config
     
 # code_snippet springApplicationName end
+
+
+security:
+  basic:
+    enabled: false
+management:
+  security:
+    enabled: false
